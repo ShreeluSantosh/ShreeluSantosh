@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Shreelu Santosh, an undergraduate student learning threat intelligence and machine learning.
 <!--
 **ShreeluSantosh/ShreeluSantosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
