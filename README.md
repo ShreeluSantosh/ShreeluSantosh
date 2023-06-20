@@ -5,7 +5,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shreelu-santosh-953783225" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="shreelu santosh" /></a>
-<a href="shreelu.santosh0296@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="shreelu santosh" /></a>
 <a href="https://github.com/ShreeluSantosh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white" alt="shreelu santosh" /></a>
 </p>
 
