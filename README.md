@@ -5,11 +5,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shreelu-santosh-953783225" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="shreelu santosh" /></a>
-<a href="https://linkedin.com/in/shreelu santosh" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="shreelu santosh" /></a>
+<a href="shreelu.santosh0296@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="shreelu santosh" /></a>
 <a href="https://linkedin.com/in/shreelu santosh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white" alt="shreelu santosh" /></a>
 </p>
-
-![github](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
