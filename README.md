@@ -12,6 +12,8 @@
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="langchain" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/Css" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="langchain" width="40" height="40"/> </a> 
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/102812?s=200&v=4" alt="react" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="tensorflow" width="40" height="40"/> </a>
