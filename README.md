@@ -1,6 +1,6 @@
 <h2 align="center">Hi There!</h2>
 
-<p align="center">I'm Shreelu Santosh, an undergraduate student learning threat intelligence and machine learning.</p>
+<p align="center">I'm Shreelu Santosh, an undergraduate student, aspiring OSINT practitioner and AI enthusiast.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
