@@ -13,6 +13,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/102812?s=200&v=4" alt="react" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="seaborn" width="40" height="40"/> </a> 
