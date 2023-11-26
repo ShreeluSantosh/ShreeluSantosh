@@ -20,15 +20,14 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" alt="mysql" width="40" height="40"/> </a> </p>
-
-<h3 align="center">:woman_technologist: About ME:</h3>
-<p align="center"> 
+<hr>
+<h3>:woman_technologist: About ME:</h3>
+  
 - 🔭 I’m currently working on: **OSINT**
 - 🌱 I’m currently learning: **OSINT**, **Generative AI**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
-</p>
-<h3 align="center">My Github Stats:</h3> 
+<h3>My Github Stats:</h3> 
 <p align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh&theme=dark&background=000000)](https://git.io/streak-stats)
