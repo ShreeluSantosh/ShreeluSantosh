@@ -27,4 +27,4 @@
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
 
-[![Image of https://github.com/ShreeluSantosh/profileviewer](https://github.com/ShreeluSantosh/profileviewer/blob/master/svg/profile/badge.svg)](https://github.com/ShreeluSantosh/profileviewer)
+![](https://komarev.com/ghpvc/?username=ShreeluSantosh)
