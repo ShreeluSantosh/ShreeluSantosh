@@ -21,8 +21,16 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" alt="mysql" width="40" height="40"/> </a> </p>
 
-### :woman_technologist: About ME:
+<h3 align="center">:woman_technologist: About ME:</h3>
+<p align="center"> 
 - 🔭 I’m currently working on: **OSINT**
 - 🌱 I’m currently learning: **OSINT**, **Generative AI**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
+</p>
+<h3 align="center">My Github Stats:</h3> 
+<p align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
