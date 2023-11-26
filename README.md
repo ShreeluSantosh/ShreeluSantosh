@@ -1,4 +1,4 @@
-<h2 align="center">Hi There!</h2>
+<h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">I'm Shreelu Santosh, an undergraduate student, aspiring OSINT practitioner and AI enthusiast.</p>
 
@@ -8,7 +8,7 @@
 <a href="https://github.com/ShreeluSantosh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white" alt="shreelu santosh" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> :hammer_and_wrench: Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
@@ -21,7 +21,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" alt="mysql" width="40" height="40"/> </a> </p>
 
-
+### :woman_technologist: About ME:
 - 🔭 I’m currently working on: **OSINT**
 - 🌱 I’m currently learning: **OSINT**, **Generative AI**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
