@@ -26,5 +26,3 @@
 - 🌱 I’m currently learning: **OSINT**, **Generative AI**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
-
-![](https://komarev.com/ghpvc/?username=ShreeluSantosh&style=for-the-badge)
