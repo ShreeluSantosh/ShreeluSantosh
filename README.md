@@ -30,9 +30,12 @@
 - 🌱 I’m currently learning: **OSINT**, **Generative AI**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
+
 <h3>My Github Stats:</h3> 
 <p align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreeluSantosh&border_radius=7.6)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6)](https://github.com/ShreeluSantosh/github-readme-stats) <br>
+
 </p>
