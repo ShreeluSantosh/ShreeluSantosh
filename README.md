@@ -1,9 +1,8 @@
-<h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-
-<p align="center">I'm Shreelu Santosh, an undergraduate student, aspiring OSINT practitioner and AI enthusiast.</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreelu+Santosh;" />
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=ShreeluSantosh&style=flat-square)
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -35,7 +34,7 @@
 <p align="center">
 
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreeluSantosh&border_radius=7.6)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6)](https://github.com/ShreeluSantosh/github-readme-stats) <br>
 
 </p>
