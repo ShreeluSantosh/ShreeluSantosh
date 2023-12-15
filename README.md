@@ -30,6 +30,11 @@
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
 
+
+<h3>TryHackMe:</h3>
+
+![Aparna's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/detctshu.png)
+
 <h3>My Github Stats:</h3> 
 <p align="center">
 
