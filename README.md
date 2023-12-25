@@ -38,7 +38,7 @@
 <h3>My Github Stats:</h3> 
 <p align="center">
 
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreeluSantosh&border_radius=7.6)  
+![Shreelu's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6) <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6)](https://github.com/ShreeluSantosh/github-readme-stats) <br>
 
