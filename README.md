@@ -32,7 +32,7 @@
 <hr>
 <h3>👩‍💻 About ME:</h3>
   
-- 🔭 I’m currently working on: **ScrapeVulture and Web-App-For-GoEmotions**
+- 🔭 I’m currently working on: **ScrapeVulture and Emotions-Analyzer**
 - 🌱 I’m currently learning: **OSINT**, **Generative AI**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
