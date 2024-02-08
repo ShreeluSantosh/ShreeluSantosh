@@ -1,7 +1,7 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<div align="center"><img src="https://static.vecteezy.com/system/resources/previews/012/744/791/large_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" alt="girl-coding-on-computer" width="300", height="300"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreelu+Santosh;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hay+There!+👋;+I'm+Shreelu;" />
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=ShreeluSantosh&style=flat-square)
