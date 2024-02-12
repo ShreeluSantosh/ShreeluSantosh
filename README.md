@@ -11,6 +11,9 @@
 <a href="https://www.linkedin.com/in/shreelu-santosh/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="shreelu santosh" /></a>
 <a href="https://github.com/ShreeluSantosh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white" alt="shreelu santosh" /></a>
 </p>
+<p align="center">
+    Email: <a href="mailto:shreelu.santosh0296@gmail.com"> shreelu.santosh0296@gmail.com </a>
+</p>
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 
@@ -32,11 +35,10 @@
 <hr>
 <h3>👩‍💻 About ME:</h3>
   
-- 🔭 I’m currently working on: **ScrapeVulture and Emotions-Analyzer**
-- 🌱 I’m currently learning: **OSINT**, **Generative AI**
+- 🔭 I’m currently working on: **2024-Coding-Solutions** and **Emotions-Analyzer**
+- 🌱 I’m currently learning: **OSINT**, ****
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
-
 
 <h3>TryHackMe:</h3>
 
