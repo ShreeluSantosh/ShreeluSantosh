@@ -33,7 +33,7 @@
 <hr>
 <h3>👩‍💻 About ME:</h3>
   
-- 🔭 I’m currently working on: **2024-Coding-Solutions** and **Emotions-Analyzer**
+- 🔭 I’m currently working on: **2024-Coding-Solutions and Emotions-Analyzer**
 - 🌱 I’m currently learning: **OSINT**, ****
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
