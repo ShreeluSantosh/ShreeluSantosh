@@ -37,7 +37,7 @@
 - 🌱 I’m currently learning: **OSINT**, **Data Structures**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
-- 🎈 Fun Fact: There's not a lot interesting here; I'm just an average person looking to tackle my life goals
+- 🎈 Fun Fact: Not a lot interesting here
 
 <h3>TryHackMe:</h3>
 
