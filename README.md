@@ -33,8 +33,8 @@
 <hr>
 <h3>👩‍💻 About ME:</h3>
   
-- 🔭 I’m currently working on: **2024-Coding-Solutions** and **Emotions-Analyzer**
-- 🌱 I’m currently learning: **OSINT**, **Data Structures**
+- 🔭 I’m currently working on: **pepperPassword**
+- 🌱 I’m currently learning: **OSINT**, **Cryptography**
 - 👯 I’m looking to collaborate on: **Cybersecurity**
 - 😄 Pronouns: **She/her**
 - 🎈 Fun Fact: Not a lot interesting here
