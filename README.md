@@ -30,25 +30,29 @@
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="seaborn" width="40" height="40"/> </a> 
+
 <hr>
-<h3>👩‍💻 About ME:</h3>
-  
-- 🔭 I’m currently working on: **pepperPassword**
-- 🌱 I’m currently learning: **OSINT**, **Cryptography**
-- 👯 I’m looking to collaborate on: **Cybersecurity**
-- 😄 Pronouns: **She/her**
-- 🎈 Fun Fact: Not a lot interesting here
 
-<h3>TryHackMe:</h3>
+<h3 align="center">👩‍💻 About ME:</h3>
 
-![Aparna's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/detctshu.png)
+<ul align="center">
+    <li>🔭 I’m currently working on: <b>pepperPassword</b></li>
+    <li>🌱 I’m currently learning: <b>OSINT</b>, <b>Cryptography</b></li>
+    <li>👯 I’m looking to collaborate on: <b>Cybersecurity</b></li>
+    <li>😄 Pronouns: <b>She/her</b></li>
+    <li>🎈 Fun Fact: Not a lot interesting here</li>
+</ul>
 
-<h3>My Github Stats:</h3> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreelusantosh" alt="shreelusantosh" /></a> </p>
+<h3 align="center">TryHackMe:</h3>
+
 <p align="center">
-
-![Shreelu's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6)](https://github.com/ShreeluSantosh/github-readme-stats) <br>
-
+<a href="https://www.tryhackme.com/p/detctshu">
+<img src="https://tryhackme-badges.s3.amazonaws.com/detctshu.png">
+</a>
 </p>
+
+<h3 align="center">My Github Stats:</h3> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreelusantosh" alt="ShreeluSantosh's trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="shreelusantosh" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="ShreeluSantosh's Streak" /></a> </p>
+<p align="center"> <a href="https://github.com/ShreeluSantosh/github-readme-stats"><img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6" alt="ShreeluSantosh's Streak" /></a> </p>
