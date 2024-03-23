@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://www.tryhackme.com/p/detctshu">
-<img src="https://tryhackme-badges.s3.amazonaws.com/detctshu.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/detctshu.png">
 </a>
 </p>
 
