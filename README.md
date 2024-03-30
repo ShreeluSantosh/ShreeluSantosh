@@ -9,12 +9,12 @@
 <a href="https://www.linkedin.com/in/shreelu-santosh/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="shreelu santosh" /></a>
 <a href="https://github.com/ShreeluSantosh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white" alt="shreelu santosh" /></a>
 </p>
-<p align="center">
+<h3 align="center">
     Email: <a href="mailto:shreelu.santosh0296@gmail.com"> shreelu.santosh0296@gmail.com </a>
-</p>
-<p align="center">
+</h3>
+<h3 align="center">
     Visit my website: [to be launched soon]
-</p>
+</h3>
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 
