@@ -1,7 +1,9 @@
-<div align="center"><img src="https://static.vecteezy.com/system/resources/previews/012/744/791/large_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" alt="girl-coding-on-computer" width="300", height="300"> </div>
+<p align="center">
+<img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b7611k5czcheixb6gtrxnvtvrhtxnjrq2mw2pa81qp2ok&ep=v1_gifs_search&rid=200.webp&ct=g" width="480" height="360"></p>
+<p align="center"><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hay+There!;+I'm+Shreelu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hay+There!;+I'm+Shreelu!;" />
 </h1>
 
 <h3 align="center">Connect with me:</h3>
@@ -13,7 +15,8 @@
     Email: <a href="mailto:shreelu.santosh0296@gmail.com"> shreelu.santosh0296@gmail.com </a>
 </h3>
 <h3 align="center">
-    Visit my website: [to be launched soon]
+    Visit my website: <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=To+Be+Launched+Soon;" height="40"> </h3>
 </h3>
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
