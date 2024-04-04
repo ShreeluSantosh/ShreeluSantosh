@@ -50,10 +50,16 @@
 </ul>
 
 <h3 align="center">TryHackMe:</h3>
-
 <p align="center">
 <a href="https://www.tryhackme.com/p/detctshu">
 <img src="https://tryhackme-badges.s3.amazonaws.com/detctshu.png">
+</a>
+</p>
+
+<h3 align="center">CyberDefenders:</h3>
+<p align="center">
+<a href="https://cyberdefenders.org/p/shreelu.santosh0296">
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/shreelu.santosh0296.png" width="300" />
 </a>
 </p>
 
