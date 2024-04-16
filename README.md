@@ -42,7 +42,7 @@
 <h3 align="center">👩‍💻 About ME:</h3>
 
 <ul align="center">
-    <li>🔭 I’m currently working on: <b>pepperPassword</b></li>
+    <li>🔭 I’m currently working on: <b>pepperPassword, anonAuth</b></li>
     <li>🌱 I’m currently learning: <b>OSINT</b>, <b>Cryptography</b></li>
     <li>👯 I’m looking to collaborate on: <b>Cybersecurity</b>, <b>pepperPassword</b></li>
     <li>😄 Pronouns: <b>She/her</b></li>
