@@ -52,7 +52,7 @@
 <h3 align="center">TryHackMe:</h3>
 <p align="center">
 <a href="https://www.tryhackme.com/p/detctshu">
-<img src="https://tryhackme-badges.s3.amazonaws.com/detctshu.png">
+<img src="https://tryhackme-badges.s3.amazonaws.com/d3tctshu.png" alt="TryHackMe">
 </a>
 </p>
 
