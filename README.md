@@ -3,7 +3,7 @@
 <p align="center"><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hay+There!;+I'm+Shreelu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Shreelu!;" />
 </h1>
 
 <h3 align="center">Connect with me:</h3>
@@ -14,10 +14,10 @@
 <h3 align="center">
     Email: <a href="mailto:shreelu.santosh0296@gmail.com"> shreelu.santosh0296@gmail.com </a>
 </h3>
-<h3 align="center">
+<!--<h3 align="center">
     Visit my website: <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=To+Be+Launched+Soon;" height="40"> </h3>
-</h3>
+</h3>--!>
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 
