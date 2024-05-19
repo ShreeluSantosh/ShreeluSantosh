@@ -56,14 +56,14 @@
 </a>
 </p>
 
-<!-- <h3 align="center">CyberDefenders:</h3>
+<!--<h3 align="center">CyberDefenders:</h3>
 <p align="center">
 <a href="https://cyberdefenders.org/p/shreelu.santosh0296">
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/shreelu.santosh0296.png" width="300" />
 </a>
-</p> --!>
+</p>--!>
 
-<h3 align="center">My Github Stats:</h3> 
+<h3 align="center">My GitHub Stats:</h3> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreelusantosh" alt="ShreeluSantosh's trophies" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="shreelusantosh" /></a> </p>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="ShreeluSantosh's Streak" /></a> </p>
