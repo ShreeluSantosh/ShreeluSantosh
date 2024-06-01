@@ -54,9 +54,9 @@
 <h3 align="center">👩‍💻 About ME:</h3>
 
 <ul align="center">
-    <li>🔭 I’m currently working on: <b>pepperPassword, anonAuth, MindSpace-Web</b></li>
-    <li>🌱 I’m currently learning: <b>OSINT</b>, <b>Cryptography</b>, <b>Open-Source Development</b></li>
-    <li>👯 I’m looking to collaborate on: <b>Open-Source</b>, <b>Cybersecurity</b>, <b>pepperPassword</b></li>
+    <li>🔭 I’m currently working on: <b>pepperPassword, anonAuth</b></li>
+    <li>🌱 I’m currently learning: <b>Pentesting</b>, <b>Cryptography</b>, <b>Open-Source Development</b></li>
+    <li>👯 I’m looking to collaborate on: <b>Open-Source Projects</b>, <b>Cybersecurity</b></li>
     <li>😄 Pronouns: <b>She/her</b></li>
     <li>🎈 Fun Fact: Not a lot interesting here</li>
 </ul>
