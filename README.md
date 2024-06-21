@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/shreelu-santosh/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="shreelu santosh linkedin" /></a>
     <a href="https://github.com/ShreeluSantosh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=Github&logoColor=white" alt="shreelu santosh github" /></a>
-    <a href="https://medium.com/@d3tctshu"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="shreelu medium" /></a>
+    <a href="https://medium.com/@Lun4rC1ph3r"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="shreelu medium" /></a>
     <br>
 </p>
 <p align="center">
