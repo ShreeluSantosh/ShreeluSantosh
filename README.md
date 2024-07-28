@@ -64,16 +64,15 @@
 <h3 align="center">TryHackMe:</h3>
 <p align="center">
 <a href="https://www.tryhackme.com/p/detctshu">
-<img src="https://tryhackme-badges.s3.amazonaws.com/d3tctshu.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lun4rC1ph3r.png" alt="TryHackMe">
 </a>
 </p>
 
-<!--<h3 align="center">CyberDefenders:</h3>
-<p align="center">
-<a href="https://cyberdefenders.org/p/shreelu.santosh0296">
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/shreelu.santosh0296.png" width="300" />
-</a>
-</p>--!>
+<h3 align="center">My Badges:</h3> 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /> </a>
+</div>
 
 <h3 align="center">My GitHub Stats:</h3> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreelusantosh" alt="ShreeluSantosh's trophies" /></a> </p>
