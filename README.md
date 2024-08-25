@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b7611k5czcheixb6gtrxnvtvrhtxnjrq2mw2pa81qp2ok&ep=v1_gifs_search&rid=200.webp&ct=g" width="480" height="360"></p>
-<p align="center"><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="center"> 
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Shreelu!;" />
@@ -97,7 +97,3 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="shreelusantosh" /></a> </p>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="ShreeluSantosh's Streak" /></a> </p>
 <p align="center"> <a href="https://github.com/ShreeluSantosh/github-readme-stats"><img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6" alt="ShreeluSantosh's Streak" /></a> </p>
-
-<hr>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
