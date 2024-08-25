@@ -27,12 +27,39 @@
     Email: <a href="mailto:shreelu.santosh0296@gmail.com"> shreelu.santosh0296@gmail.com </a>
 </h3>
 <h3 align="center">
-    Visit my website: <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Just+Launched!+🚀;" height="40"> <br>
-    <a href="http://shreelusantosh.xyz">Shreelu's Portfolio Website</a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Portfolio+Website+🚀;" height="40"> <br>
+    <a href="http://shreelusantosh.xyz">Visit here</a>
 </h3>
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
+
+<h4 align="center">Cyber Security</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,debian,bash" />
+  </a>
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  </a>
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
+  </a>
+</p>
+
+<h4 align="center">Tools and Technologies</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure,postman" />
+  </a>
+</p>
 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a>
