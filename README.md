@@ -97,3 +97,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="shreelusantosh" /></a> </p>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="ShreeluSantosh's Streak" /></a> </p>
 <p align="center"> <a href="https://github.com/ShreeluSantosh/github-readme-stats"><img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6" alt="ShreeluSantosh's Streak" /></a> </p>
+-- 
+[![](https://visitcount.itsvg.in/api?id=ShreeluSantosg&icon=1&color=0)](https://visitcount/itsvg.in)
