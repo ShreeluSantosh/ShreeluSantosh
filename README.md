@@ -29,7 +29,7 @@
 <h3 align="center">
     Visit my website: <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Just+Launched!+🚀;" height="40"> <br>
-    <a href="https://shreelu-santosh.vercel.app">Shreelu's Portfolio Website</a>
+    <a href="http://shreelusantosh.xyz">Shreelu's Portfolio Website</a>
 </h3>
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
