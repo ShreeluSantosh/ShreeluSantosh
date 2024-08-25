@@ -75,12 +75,12 @@
 
 <h3 align="center">TryHackMe:</h3>
 <p align="center">
-<a href="https://www.tryhackme.com/p/detctshu">
+<a href="https://www.tryhackme.com/p/Lun4rC1ph3r">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Lun4rC1ph3r.png" alt="TryHackMe">
 </a>
 </p>
 
-<h3 align="center">My Badges:</h3> 
+<h3 align="center">🏅 My Badges:</h3> 
 <div style='display:flex; align-items:center;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -92,10 +92,9 @@
     </a>
 </div>
 
-<h3 align="center">My GitHub Stats:</h3> 
+<h3 align="center">🏆 My GitHub Stats:</h3> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreelusantosh" alt="ShreeluSantosh's trophies" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="shreelusantosh" /></a> </p>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="ShreeluSantosh's Streak" /></a> </p>
 <p align="center"> <a href="https://github.com/ShreeluSantosh/github-readme-stats"><img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6" alt="ShreeluSantosh's Streak" /></a> </p>
 -- 
-[![](https://visitcount.itsvg.in/api?id=ShreeluSantosg&icon=1&color=0)](https://visitcount/itsvg.in)
