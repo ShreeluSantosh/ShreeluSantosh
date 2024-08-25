@@ -97,4 +97,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="shreelusantosh" /></a> </p>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="ShreeluSantosh's Streak" /></a> </p>
 <p align="center"> <a href="https://github.com/ShreeluSantosh/github-readme-stats"><img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6" alt="ShreeluSantosh's Streak" /></a> </p>
--- 
+
+<hr>
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
