@@ -33,28 +33,28 @@
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 
-<h4 align="center">Cyber Security</h4>
+<h4 align="center">💻 Cyber Security 💻</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,debian,bash" />
   </a>
 </p>
 
-<h4 align="center">Frontend</h4>
+<h4 align="center">🎨 Frontend 🎨</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   </a>
 </p>
 
-<h4 align="center">Backend</h4>
+<h4 align="center">⚙️ Backend ⚙️</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
   </a>
 </p>
 
-<h4 align="center">Tools and Technologies</h4>
+<h4 align="center">⚒️ Tools & Technologies ⚒️</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,azure,postman" />
