@@ -50,7 +50,7 @@
 <h4 align="center">⚙️ Backend ⚙️</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongo,mysql" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@
 <h3 align="center">👩‍💻 About ME:</h3>
 
 <ul align="center">
-    <li>🔭 I’m currently working on: <b>pepperPassword, anonAuth</b></li>
-    <li>🌱 I’m currently learning: <b>Pentesting</b>, <b>Cryptography</b>, <b>Open-Source Development</b></li>
+    <li>🔭 I’m currently working on: <b><a href="https://github.com/ShreeluSantosh/Violent-Python-A-Cookbook-for-Pentesters-Hackers-Forensics-Code-files">Violent Python's Codes</a></b></li>
+    <li>🌱 I’m currently learning: <b>Pentesting</b>, <b>Open-Source Development</b></li>
     <li>👯 I’m looking to collaborate on: <b>Open-Source Projects</b>, <b>Cybersecurity</b></li>
     <li>😄 Pronouns: <b>She/her</b></li>
     <li>🎈 Fun Fact: Not a lot interesting here</li>
