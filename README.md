@@ -83,15 +83,20 @@
 <h3 align="center">🏅 My Badges:</h3> 
 <p align="center">GSSOC 2024</p>
 <div style='display:flex; align-items:center;' align='center'>
-    <a href="https://gssoc.girlscript.tech/leaderboard">
+<a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
     <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
     <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-    </a>
+    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</a>
 </div>
+<p align="center">Hacktoberfest 2024</p>
+<div style='display:flex; align-items:center;' align="center">
+    <a href="https://www.holopin.io/@shreelusantosh#"></a>
+    <a href="https://www.holopin.io/userbadge/cm1f6qxl087820dlgpw1aeyxf"><img src="https://github.com/user-attachments/assets/c8d3ad84-9a6e-4b98-94ef-f4807feffea4" width="100px" height="100px"/></a>
+</div>  
 
 <h3 align="center">🏆 My GitHub Stats:</h3> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreelusantosh" alt="ShreeluSantosh's trophies" /></a> </p>
