@@ -6,6 +6,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Shreelu!;" />
 </h1>
 
+<h3 align="center">👩‍💻 About ME:</h3>
+
+<ul align="center">
+    <li>📊 I’m participating in: <b><a href="https://gs-wob.vercel.app/wob">GirlScript Winter of Blockchain</a>, <a href="https://hacktoberfest.com/">Hacktoberfest</a>, <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code - Extd</a></b></li>
+    <li>🔭 I’m currently working on: <b><a href="https://github.com/ShreeluSantosh/Violent-Python-A-Cookbook-for-Pentesters-Hackers-Forensics-Code-files">Violent Python's Codes</a></b></li>
+    <li>🌱 I’m currently learning: <b>Pentesting</b>, <b>Open-Source Development</b></li>
+    <li>👯 I’m looking to collaborate on: <b>Open-Source Projects</b>, <b>Cybersecurity</b></li>
+    <li>😄 Pronouns: <b>She/her</b></li>
+    <li>🎈 Fun Fact: Not a lot interesting here</li>
+</ul>
+
+<hr>
+
 <h3 align="center">I am on:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/shreelu-santosh/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="shreelu santosh linkedin" /></a>
@@ -62,16 +75,6 @@
 </p>
    
 <hr>
-
-<h3 align="center">👩‍💻 About ME:</h3>
-
-<ul align="center">
-    <li>🔭 I’m currently working on: <b><a href="https://github.com/ShreeluSantosh/Violent-Python-A-Cookbook-for-Pentesters-Hackers-Forensics-Code-files">Violent Python's Codes</a></b></li>
-    <li>🌱 I’m currently learning: <b>Pentesting</b>, <b>Open-Source Development</b></li>
-    <li>👯 I’m looking to collaborate on: <b>Open-Source Projects</b>, <b>Cybersecurity</b></li>
-    <li>😄 Pronouns: <b>She/her</b></li>
-    <li>🎈 Fun Fact: Not a lot interesting here</li>
-</ul>
 
 <h3 align="center">TryHackMe:</h3>
 <p align="center">
