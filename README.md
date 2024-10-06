@@ -86,7 +86,7 @@
 <h3 align="center">🏅 My Badges:</h3> 
 <p align="center">GSSOC 2024</p>
 <div style='display:flex; align-items:center;' align='center'>
-<a href="https://gssoc.girlscript.tech/leaderboard">
+<a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
     <img src="https://github.com/user-attachments/assets/282d7565-9962-41e8-8fa5-5b69d8adbf9e" height="150"/>
 </a>
 </div>
