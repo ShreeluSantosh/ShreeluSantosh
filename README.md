@@ -93,7 +93,8 @@
 <p align="center">Hacktoberfest 2024</p>
 <div style='display:flex; align-items:center;' align="center">
     <a href="https://www.holopin.io/@shreelusantosh#"></a>
-    <a href="https://www.holopin.io/userbadge/cm1f6qxl087820dlgpw1aeyxf"><img src="https://github.com/user-attachments/assets/c8d3ad84-9a6e-4b98-94ef-f4807feffea4" width="100px" height="100px"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1f6qxl087820dlgpw1aeyxf"><img src="https://github.com/user-attachments/assets/c8d3ad84-9a6e-4b98-94ef-f4807feffea4" width="100px" height="100px"/></a>
+    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24oti28258880cmbdnisvie6"><img src="https://github.com/user-attachments/assets/ff651245-becd-472e-a4e0-7b24f64e5e77" width="100px" height="100px"/></a>
 </div>  
 
 <h3 align="center">🏆 My GitHub Stats:</h3> 
