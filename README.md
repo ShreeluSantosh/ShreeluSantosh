@@ -9,7 +9,7 @@
 <h3 align="center">👩‍💻 About ME:</h3>
 
 <ul align="center">
-    <li>📊 I’m participating in: <b><a href="https://gs-wob.vercel.app/wob">GirlScript Winter of Blockchain</a>, <a href="https://hacktoberfest.com/">Hacktoberfest</a>, <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code - Extd</a></b></li>
+    <li>📊 I’m participating in: <b><a href="https://hacktoberfest.com/">Hacktoberfest</a>, <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code - Extd</a></b></li>
     <li>🔭 I’m currently working on: <b><a href="https://github.com/ShreeluSantosh/Violent-Python-A-Cookbook-for-Pentesters-Hackers-Forensics-Code-files">Violent Python's Codes</a></b></li>
     <li>🌱 I’m currently learning: <b>Pentesting</b>, <b>Open-Source Development</b></li>
     <li>👯 I’m looking to collaborate on: <b>Open-Source Projects</b>, <b>Cybersecurity</b></li>
