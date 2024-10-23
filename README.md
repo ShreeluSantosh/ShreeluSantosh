@@ -93,7 +93,7 @@
 <p align="center">Hacktoberfest 2024</p>
 <div style='display:flex; align-items:center;' align="center">
     <a href="https://www.holopin.io/@shreelusantosh#"></a>
-    <img src="https://github.com/user-attachments/assets/12425d33-4592-4a0b-a689-285d9538b91d" height="200px"/>
+    <img src="https://github.com/user-attachments/assets/3874093a-1132-43a5-bc52-6ed3a22ba121" height="200px"/>
 </div>  
 
 <h3 align="center">🏆 My GitHub Stats:</h3> 
