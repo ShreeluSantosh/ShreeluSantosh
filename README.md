@@ -111,17 +111,17 @@
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&show_icons=true&border_radius=7.6" alt="GitHub stats" />
+        <img src="https://github-readme-stats-stp2003.vercel.app/api?username=ShreeluSantosh&theme=onedark&show_icons=true&border_radius=7.6" alt="GitHub stats" />
     </a>
 </p>
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh" alt="GitHub Streak" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=ShreeluSantosh&theme=onedark" alt="GitHub Streak" />
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/ShreeluSantosh/github-readme-stats">
-        <img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&layout=compact&border_radius=7.6" alt="Top Languages" />
+        <img src="https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=ShreeluSantosh&theme=onedark&layout=compact&border_radius=7.6" alt="Top Languages" />
     </a>
 </p>
 
