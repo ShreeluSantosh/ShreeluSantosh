@@ -10,12 +10,13 @@
 
 <ul align="center">
     <li>📊 Participated in: <b><a href="https://hacktoberfest.com/">Hacktoberfest</a>, <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code - 2024</a></b></li>
-    <li>🔭 Currently working on: <b><a href="https://github.com/ShreeluSantosh/Violent-Python-A-Cookbook-for-Pentesters-Hackers-Forensics-Code-files">Violent Python's Codes</a></b>, <b><a href="https://github.com/ShreeluSantosh/advent-of-osint-2024-writeups">Advent of OSINT 2024 Writeups</a></b></li>
+    <li>🔭 Currently working on: A secret plan for enhancing OSINT challenges in India - work in progress 🔜</li>
+    <li>🔭Recent work <b><a href="https://github.com/ShreeluSantosh/Violent-Python-A-Cookbook-for-Pentesters-Hackers-Forensics-Code-files">Violent Python's Codes</a></b>, <b><a href="https://github.com/ShreeluSantosh/advent-of-osint-2024-writeups">Advent of OSINT 2024 Writeups</a></b></li>
     <li>🌱 Learning: <b>Pentesting</b>, <b>Open-Source Development</b>, <b>Python for Cybersecurity</b></li>
     <li>👯 Looking to collaborate on: <b>Open-Source Cybersecurity Projects</b></li>
-    <li>🌍 Passionate about: <b>Digital Forensics, Threat Intelligence</b></li>
+    <li>🌍 Passionate about: <b>OSINT, Threat Intelligence, cracking puzzles</b></li>
     <li>😄 Pronouns: <b>She/her</b></li>
-    <li>🎈 Fun Fact: I enjoy solving cybersecurity puzzles!</li>
+    <li>🎈 Fun Fact: An avid thriller fiction reader!</li>
 </ul>
 
 
