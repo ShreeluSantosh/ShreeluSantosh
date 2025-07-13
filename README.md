@@ -36,9 +36,6 @@
     <a href="https://www.hackthebox.com" target="blank">
         <img align="center" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HackTheBox" />
     </a>
-    <a href="https://hackerone.com" target="blank">
-        <img align="center" src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
-    </a>
 </p>
 
 <h3 align="center">
