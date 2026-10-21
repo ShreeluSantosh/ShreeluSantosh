@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="280px" alt="Cyber cloud illustration" />
-</p>
-
-<h1 align="center">Shreelu Santosh</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=760&height=55&lines=Cloud+Security+%7C+OSINT+%7C+QA;AWS-first+%7C+Azure-aware;Breaking+apps+to+understand+them;Python-powered+security+learning" alt="Typing intro" />
-</p>
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f33,35:2a2f7a,70:5b4fc7,100:0d0f33&height=200&section=header&text=May%20this%20code%20lead%20us%20starward!&fontSize=38&fontColor=f5d98a&fontAlign=50&fontAlignY=38&animation=twinkling&desc=All%20aboard%20the%20Express%20of%20open%20source%20and%20commits%20%E2%9C%A6&descSize=16&descAlignY=60" alt="May this code lead us starward!" /> 
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Security-0f172a?style=for-the-badge" alt="Cloud Security" />
