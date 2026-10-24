@@ -12,26 +12,15 @@
 
 ## 👤 About Me
 
-```
-shreelu@github:~$ whoami
-Cloud security explorer with an OSINT lens
-
-shreelu@github:~$ cat about.txt
-Focused on AWS, Azure, and web app testing,
-and on understanding how systems fail.
-```
+<p align="left">
+  <img src="assets/about.svg" alt="Terminal: whoami prints 'Cloud security explorer with an OSINT lens'. about.txt says: Focused on AWS, Azure, and web app testing, and on understanding how systems fail." />
+</p>
 
 ## 🎯 Focus Areas
 
-```
-shreelu@github:~$ cat focus_areas.json
-{
-  "☁️ cloud":       "AWS first, Azure exposure, security-first learning",
-  "🔎 research":    "OSINT, investigation workflows, threat-focused exploration",
-  "🧪 qa_mindset":  "breaking web apps, validating behavior, finding weak points",
-  "🐍 build_style": "automation and experimentation with Python"
-}
-```
+<p align="left">
+  <img src="assets/focus_areas.svg" alt="Terminal: focus_areas.json lists cloud (AWS first, Azure exposure, security-first learning), research (OSINT, investigation workflows, threat-focused exploration), qa_mindset (breaking web apps, validating behavior, finding weak points), build_style (automation and experimentation with Python)." />
+</p>
 
 ## 🧰 Toolkit
 
