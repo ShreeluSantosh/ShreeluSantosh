@@ -49,14 +49,14 @@ shreelu@github:~$ cat focus_areas.json
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreelu-santosh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/shreelu-santosh/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40IDIwLjVIMTd2LTUuNmMwLTEuMyAwLTMtMS45LTNzLTIgMS40LTIgMi45djUuN0g5LjNWOWgzLjR2MS42Yy41LTEgMS42LTEuOSAzLjQtMS45IDMuNiAwIDQuMiAyLjQgNC4yIDUuNXptLTE1LTEzYTIgMiAwIDEgMSAwLTQuMiAyIDIgMCAwIDEgMCA0LjFtMS43IDEzSDMuNlY5SDd6TTIyLjIgMEgxLjhRLjIuMiAwIDEuN3YyMC42cS4yIDEuNiAxLjggMS43aDIwLjRxMS42LS4yIDEuOC0xLjdWMS43UTIzLjguMSAyMi4yIDAiLz48L3N2Zz4%3D" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ShreeluSantosh" target="_blank">
+  <a href="https://github.com/ShreeluSantosh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.hackthebox.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  <a href="https://www.hackthebox.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
   </a>
 </p>
 
